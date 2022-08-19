@@ -5,7 +5,7 @@
 <!-- INTRODUCTION -->
     
 <h1 align="center">Hello, I'm Telak Ghimire<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"></h1>
-<h3 align="center">An Aspiring Data Analyst from India</h3>
+<h3 align="center">An Aspiring Data Analyst</h3>
 
 
 <!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
@@ -51,7 +51,7 @@
 <br>
 <!-- STREAK CODE -->
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar4saeedkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="samar4saeedkhan" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telakghimire&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="samar4saeedkhan" /></p>
 
 
 <!-- GITHUB STAT CODE -->
