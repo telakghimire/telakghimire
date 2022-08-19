@@ -5,7 +5,7 @@
 <!-- INTRODUCTION -->
     
 <h1 align="center">Hello, I'm Telak Ghimire<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"></h1>
-<h3 align="center">An Aspiring Data Analyst from India.</h3>
+<h3 align="center">An Aspiring Data Analyst from India</h3>
 
 
 <!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
@@ -15,7 +15,7 @@
 
 <!-- ABOUT ME -->
 
-<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/Data-Analytics-What-is-Data-Analytics-Edureka-1.png">
 
 - 🔭 I’m currently working on **Analytical Skills**
 
