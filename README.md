@@ -74,7 +74,7 @@
  <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
 <br>
   <p align="center" dir="auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=samar4saeedkhan&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=telakghimire&theme=onedark">
 </details>
 
 <!-- 3rd DROP DOWN -->
@@ -82,7 +82,7 @@
 <details>
   <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
     <br>
-    <a href="https://github.com/samar4saeedkhan/github-readme-activity-graph"><img alt="Samar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samar4saeedkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/telakghimire/github-readme-activity-graph"><img alt="Telak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=telakghimire&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     </details>
 
 <!--CONNECT WITH ME CODE  -->
