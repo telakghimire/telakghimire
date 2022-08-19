@@ -51,20 +51,20 @@
 <br>
 <!-- STREAK CODE -->
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telakghimire&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="samar4saeedkhan" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telakghimire&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="telakghimire" /></p>
 
 
 <!-- GITHUB STAT CODE -->
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Info:</strong></h2>
 
 <!-- 1st DROP DOWN -->
 
 <details>
   <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
  <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=samar4saeedkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar4saeedkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" /></p>
+ <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=telakghimire&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="telakghimire" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=telakghimire&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="telakghimire" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
