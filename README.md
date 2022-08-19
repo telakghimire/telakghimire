@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Analytical Skills**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics From Masai School**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/telakghimire?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="telakghimire" height="30" width="40" style="max-width: 100%;"></a>
 
@@ -91,10 +91,10 @@
 
 <!-- CONNECT WITH ME ICONS CODE -->
 <p align="left">
-<a href = "https://www.linkedin.com/in/samarsaeedkhan/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/samar4saeedkhan" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:samarsaeedkhan4@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/samarsaeedkhan4" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
+<a href = "https://www.linkedin.com/in/telakghimire/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://github.com/telakghimire" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
+<a href="mailto:telak_ghimire@yahoo.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href="https://www.hackerrank.com/telak_ghimire" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
 </p>
 
 <h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
