@@ -1,6 +1,6 @@
 <!-- MASTER PIC -->
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://media.istockphoto.com/vectors/flag-ribbon-welcome-old-school-flag-banner-vector-id1223088904?k=20&m=1223088904&s=612x612&w=0&h=b_ilJpFTSQbZeCrZusHRLEskmfiONWH0hFASAJbgz9g=" height="175px"/></a>
 
 <!-- INTRODUCTION -->
     
