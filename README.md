@@ -96,7 +96,3 @@
 <a href="mailto:telak_ghimire@yahoo.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 <a href="https://www.hackerrank.com/telak_ghimire" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
 </p>
-
-<h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
-
-![snake gif](https://github.com/samar4saeedkhan/samar4saeedkhan/blob/output/github-contribution-grid-snake.gif)
