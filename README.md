@@ -15,13 +15,13 @@
 
 <!-- ABOUT ME -->
 
-<img align="right" alt="Coding" width="400" height="300" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/Data-Analytics-What-is-Data-Analytics-Edureka-1.png">
+<img align="right" alt="Coding" width="400" height="300" src="https://st.depositphotos.com/1001877/1832/i/450/depositphotos_18322225-stock-photo-business-analyze-laptop-graph-and.jpg">
 
 - 🔭 I’m currently working on **Analytical Skills**
 
 - 🌱 I’m currently learning **Data Analytics From Masai School**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/telakghimire?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="telakghimire" height="30" width="40" style="max-width: 100%;"></a>
+- 👨‍💻 Check out my Projects at **[Github](https://github.com/telakghimire?tab=repositories)**
 
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/telakghimire)**
 
